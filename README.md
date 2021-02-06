@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### I am septlog, which means september log.
 - 🔭 I’m currently working on Java, GUI.
 - 🌱 I’m currently learning OCaml, JavaScript, Compiler.
