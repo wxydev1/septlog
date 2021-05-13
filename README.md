@@ -1,5 +1,5 @@
 # Hi
 
-I don't know what i am doing.
+I have no idea what i am doing.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=septlog)](https://github.com/anuraghazra/github-readme-stats)
